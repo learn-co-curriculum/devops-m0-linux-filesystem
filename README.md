@@ -18,7 +18,7 @@ The *Linux* filesystem is the hierarchy of directories and files that is used to
 
 The root directory contains several other directories, each of which serves a specific purpose. Here's an example of what the root directory looks like on most Linux installations out of the box:
 
-![Root directory](./root-directory.png)
+![Root directory](https://curriculum-content.s3.amazonaws.com/6685/devops-m0-linux-filesystem/binary-vs-text.png)
 
 Here's a summary of what each folder represents:
 
@@ -54,7 +54,7 @@ Binary files are used for storing data that is used byc omputers, such as progra
 
 If you want an easy way of knowing whether a file is a text or binary file, you can simply try opening it with a text editor. If it looks like a jarbled mess, it's probably a binary file.
 
-![Binary vs Text files](./binary-vs-text.png)
+![Binary vs Text files](https://curriculum-content.s3.amazonaws.com/6685/devops-m0-linux-filesystem/root-directory.png)
 
 ## File extensions
 
