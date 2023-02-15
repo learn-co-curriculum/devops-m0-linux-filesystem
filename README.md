@@ -36,6 +36,8 @@ Here's a summary of what each folder represents:
 - `/usr`: Contains user-related programs and data, such as applications, libraries, and documentation.
 - `/var`: This directory is used to store files that are expected to change frequently, such as logs and temporary files.
 
+We'll go over users and permissions in the next module, but for now, understand that most of these folders are *read-only* by users other than the *root* user. So if you try creating a file in your virtual machine in one of these directories, you will most likely be unable to. A notable exception is the `/home` directory; each user has their own directory, and full *read-write* access over it (e.g. `/home/thomas`).
+
 ## Everything is a file??
 
 You might find it surprising that in *Linux*, there is a phrase that "everything is a file". This refers to the fact that from the perspective of the operating system, pretty much all forms of data are treated as files. This includes not only traditional files that contain text or other data, but also directories, devices, connections, etc.
