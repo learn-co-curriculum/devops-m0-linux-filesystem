@@ -52,7 +52,9 @@ Generally, a file can take one of two forms: a *Binary* or *Text* file.
 
 > **Aside:** *ASCII* and *Unicode* character sets are what computers generally use to represent characters in digital form. They are sets of codes that can represent letters, numbers, punctuation, and all sorts of characters. **ASCII** is a very small character set and only includes characters used in the English language; **Unicode**, on the other hand, is a much larger character set that includes characters from many different languages and scripts.
 
-**Binary files**, conversely, are those that contain *binary data*, which is data represented in machine-code using the *binary* language, consisting of 0s and 1s. These types of files are are capable of storing any type of data, including text, numbers, images, audio, video, games, etc. Binary files are used for storing data that is used by computers, such as programs and system files, whereas text files are typically used for documents, source code, and other types of human-readable data.
+**Binary files**, conversely, are those that contain *binary data*, which is data represented in machine-code using the *binary* language, consisting of 0s and 1s. These types of files are are capable of storing any type of data, including text, numbers, images, audio, video, games, etc. 
+
+Binary files are used for storing data that is used by computers, such as programs and system files, whereas text files are typically used for documents, source code, and other types of human-readable data.
 
 If you want an easy way of knowing whether a file is a text or binary file, you can simply try opening it with a text editor. If it looks like a jarbled mess, it's probably a binary file.
 
