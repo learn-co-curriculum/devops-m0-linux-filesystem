@@ -68,7 +68,7 @@ A **file extension** is a set of characters added at the end of a file name, use
 
 For example, `file.txt` has the `.txt` extension, indicating it is a text file and can be opened by any program that can interpret text. `song.mp3` is an audio file, `.jpg` is an image file, etc.
 
-These extensions help the operating system and other programs decide how to handle the file.
+These extensions help the operating system and other programs decide how to handle the file. It's important to note that the extensions by themselves don't do anything, they're purely to tell the operating system what to use to open them. For example, if you get a `.txt` file and rename it to `.mp3`, it'll be opened by a music player (even though it won't be able to play it). If you rename it back, it'll work just fine. You'll see text files called all sorts of things (`.ini`, `.cfg`, `.txt`, `.py`, etc.) but they can all be opened by text programs.
 
 ## Conclusion
 
